@@ -1,4 +1,10 @@
 Version Control is important
 Control Version is really important, you guess my point
 You know, it is really important to learn Version Control, right?
+<<<<<<< HEAD
 I really love you Git. What an awesome tool!
+=======
+Control Verson is awesome
+Versionn Control of Git? I love it!
+I love Git. I really love that DVCS
+>>>>>>> adc4d2c6bdf91ffc332f945569ffd0c8def6e299
