@@ -1,2 +1,3 @@
 Version Control is important
 Control Version is really important, you guess my point
+You know, it is really important to learn Version Control, right?
